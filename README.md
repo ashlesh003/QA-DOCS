@@ -7,7 +7,7 @@
 <ul>
     <li><strong>AI Integration</strong>
         <ul>
-            <li>Utilizes state-of-the-art Natural Language Processing (NLP) models such as <strong>GPT</strong>, <strong>BERT</strong>, and <strong>GeminiAI</strong>.</li>
+            <li>Utilizes state-of-the-art Natural Language Processing (NLP) and Large Language Model(LLM) models such as <strong>GPT</strong>, <strong>BERT</strong>, and <strong>GeminiAI</strong>.</li>
             <li>Generates accurate, context-aware question-answer pairs based on document content.</li>
         </ul>
     </li>
@@ -31,7 +31,7 @@
     </li>
     <li><strong>Secure Data Management</strong>
         <ul>
-            <li>Ensures robust security with <strong>authentication methods</strong> (OTP, JWT).</li>
+            <li>Ensures robust security with <strong>authentication methods</strong> (Using Kinde).</li>
             <li>Implements <strong>role-based access control</strong> and <strong>data encryption</strong> for secure document handling.</li>
         </ul>
     </li>
@@ -57,35 +57,3 @@
     <li><strong>AI Frameworks</strong>: LangChain, Pinecone</li>
     <li><strong>Payment Integration</strong>: Stripe</li>
 </ul>
-
-<hr>
-
-<h2>👥 Contributors</h2>
-<ul>
-    <li><strong>Prajapati Milan Rameshbhai</strong></li>
-    <li><strong>Sutariya Ashlesh SureshBhai</strong></li>
-    <li><strong>Vaghani Dhruvin Kishorbhai</strong></li>
-    <li><strong>Vataliya Nishit Sanjaybhai</strong></li>
-    <li><strong>Zadafiya Vishwam Ramjibhai</strong></li>
-</ul>
-
-<hr>
-
-<h2>📞 Contact</h2>
-<p>For any inquiries or collaborations, feel free to reach out via <a href="#">GitHub Issues</a> or email.</p>
-
-<hr>
-
-<h2>⭐ How to Contribute</h2>
-<ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch (<code>feature-branch</code>).</li>
-    <li>Commit your changes.</li>
-    <li>Push to your fork.</li>
-    <li>Submit a pull request.</li>
-</ol>
-
-<hr>
-
-<h2>📄 License</h2>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
