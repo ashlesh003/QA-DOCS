@@ -1,5 +1,5 @@
 <h2>📚 QA-DOCS: Document to Questions and Answers </h2>
-<p><strong>QA-DOCS</strong> is an AI-powered platform designed to revolutionize document search and analysis. It allows users to upload various document types (e.g., PDFs, DOCX) and interact with them through natural language queries to generate context-aware answers. The platform leverages advanced AI models to automate and enhance document processing, significantly reducing manual search time.</p>
+<p><strong>QA-DOCS</strong> is an AI-powered platform designed to revolutionize document search and analysis. It allows users to upload various document types (e.g., PDFs) and interact with them through natural language queries to generate context-aware answers. The platform leverages advanced AI models to automate and enhance document processing, significantly reducing manual search time.</p>
 
 <hr>
 
